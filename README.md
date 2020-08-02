@@ -5,6 +5,10 @@
 
 ![fcataniae Stats](https://github-readme-stats.vercel.app/api?username=fcataniae&show_icons=true&hide_border=true&theme=dracula)
 
+### Repos y sus lenguajes
+
+![Lenguajes en repositorios](https://github-readme-stats.vercel.app/api/top-langs/?username=fcataniae&layout=compact&hide_title=true)
+
 ### Contacto
 
 [<img align="left" alt="https://fcataniae.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fcataniae.github.io)
