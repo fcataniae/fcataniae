@@ -7,8 +7,8 @@
 
 ### Contacto
 
-[![website fcataniae](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://fcataniae.github.io)
-[![linkedin fcataniae](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/fcataniae/)
+[<img align="left" alt="https://fcataniae.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fcataniae.github.io)
+[<img align="left" alt="fcataniae | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fcataniae/)
 
 
 <!--
