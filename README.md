@@ -3,7 +3,7 @@
 - 🔭 Actualmente trabajando en [Santander Tecnologia](https://www.linkedin.com/company/santander-tecnolog%C3%ADa-argentina/?originalSubdomain=ar)
 - 🌱 Actualmente aprendiendo Machine Learning
 
-![fcataniae Stats](https://github-readme-stats.vercel.app/api?username=fcataniae&show_icons=true&hide_border=true)
+![fcataniae Stats](https://github-readme-stats.vercel.app/api?username=fcataniae&show_icons=true&hide_border=true&theme=dracula)
 
 ### Contacto
 
